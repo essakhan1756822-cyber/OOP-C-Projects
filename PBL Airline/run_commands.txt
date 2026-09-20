@@ -1,0 +1,16 @@
+====================================================================
+           SKYLINK AIRWAYS - TERMINAL RUN COMMANDS
+====================================================================
+
+Command 1 (To Compile the Project):
+----------------------------------
+g++ -std=c++17 -Wall -Wextra -Iinclude src/main.cpp src/Flight.cpp src/Passenger.cpp src/Ticket.cpp src/Airline.cpp src/Menu.cpp -o skylink_app.exe
+
+(Alternative short command on Windows: .\build.bat)
+
+
+Command 2 (To Run the Executable):
+----------------------------------
+.\skylink_app.exe
+
+====================================================================

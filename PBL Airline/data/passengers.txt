@@ -1,0 +1,8 @@
+ECONOMY|P001|Alice Smith|alice@gmail.com|+1-555-0101|120
+ECONOMY|P002|Bob Jones|bob@yahoo.com|+1-555-0102|80
+ECONOMY|P003|Charlie Brown|charlie@outlook.com|+1-555-0103|45
+BUSINESS|P004|Diana Prince|diana@wayne.com|+1-555-0104|450
+BUSINESS|P005|Evan Wright|evan@stark.com|+1-555-0105|380
+BUSINESS|P006|Fiona Gallagher|fiona@chicago.org|+1-555-0106|290
+FIRSTCLASS|P007|George Clark|george@clark.io|+1-555-0107|1200
+FIRSTCLASS|P008|Hannah Abbott|hannah@hogwarts.edu|+1-555-0108|950
